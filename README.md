@@ -103,9 +103,9 @@ httpd.serve_forever()
 
 ## Client Side Server:
  
-![Output 1](css1.png)
+![Output 1](CSS1.png)
 
-![Output 2](css2.png)
+![Output 2](CSS2.png)
 
 ![Output 3](CSS3.png)
 
@@ -113,15 +113,15 @@ httpd.serve_forever()
 
 ![Output 4](BSS1.png)
 
-![Output 5](bss2.png)
+![Output 5](BSS2.png)
 
-![Output 6](bss3.png)
+![Output 6](BSS3.png)
 
-![Output 7](bss4.png)
+![Output 7](BSS4.png)
 
-![Output 8](bss5.png)
+![Output 8](BSS5.png)
 
-![Output 9](bss6.png)
+![Output 9](BSS6.png)
 
 
 
