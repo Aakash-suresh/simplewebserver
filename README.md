@@ -111,7 +111,7 @@ httpd.serve_forever()
 
 ## Server Side:
 
-![Output](bss1.png)
+![Output](BSS1.png)
 
 ![Output](bss2.png)
 
@@ -122,6 +122,7 @@ httpd.serve_forever()
 ![Output](bss5.png)
 
 ![Output](bss6.png)
+
 
 
 ## RESULT:
